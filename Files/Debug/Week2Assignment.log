@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Coding work\AI class programs\Week2Assignment\Source.cpp(24,23): warning C4018: '<': signed/unsigned mismatch
+D:\Coding work\AI class programs\Week2Assignment\Source.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+  Week2Assignment.vcxproj -> D:\Coding work\AI class programs\Week2Assignment\Debug\Week2Assignment.exe
